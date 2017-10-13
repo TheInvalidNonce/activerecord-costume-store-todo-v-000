@@ -7,7 +7,7 @@ class CreateCostumes < ActiveRecord::Migration
       t.string :image_url
       t.timestamps
     end
-    end
+  end
 end
 
 # By convention, the class name should match the part of the
